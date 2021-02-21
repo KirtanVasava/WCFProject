@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "addItems";
+}
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+
+    
+
+    <h1>Sell Item</h1>
+
+
+
+
+    <form method="post" class="w3-container" action="@Url.Action("addItems")">
+        
+       
+        <div>
+            <label>Item Name</label>
+            <input class="w3-input" name="Iname" type="text">
+        </div>
+        <div>
+            <label>Item Prize</label>
+            <input class="w3-input" name="Prize" type="text">
+        </div>
+
+        <div>
+            <button class="w3-bar-item w3-button w3-black">Add</button>
+
+
+        </div>
+    </form>
+
+

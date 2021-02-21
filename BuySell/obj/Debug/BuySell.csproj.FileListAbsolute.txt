@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BuySell\bin\BuySell.dll.config
+C:\Users\hp\source\repos\BuySell\bin\BuySell.dll
+C:\Users\hp\source\repos\BuySell\bin\BuySell.pdb
+C:\Users\hp\source\repos\BuySell\bin\EntityFramework.dll
+C:\Users\hp\source\repos\BuySell\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\BuySell\bin\EntityFramework.xml
+C:\Users\hp\source\repos\BuySell\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\BuySell\obj\Debug\BuySell.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BuySell\obj\Debug\BuySell.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BuySell\obj\Debug\BuySell.csproj.CopyComplete
+C:\Users\hp\source\repos\BuySell\obj\Debug\BuySell.dll
+C:\Users\hp\source\repos\BuySell\obj\Debug\BuySell.pdb
